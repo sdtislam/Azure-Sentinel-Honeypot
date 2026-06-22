@@ -55,7 +55,7 @@ The custom query successfully parsed the data stream. Not only did Sentinel perf
 
 The external IP address (134.199.164.109) that attempted to brute-force the honeypot was cross-referenced in VirusTotal and confirmed as a known malicious node associated with a DigitalOcean data center
 
-![VirusTotal scan results]()
+![VirusTotal Scan Results](virustotal-scan-results.png)
 
 Key Takeaways
 Enterprise Infrastructure: Successfully architected an end-to-end cloud log pipeline utilizing Azure Monitor Agents and custom Data Collection Rules.
